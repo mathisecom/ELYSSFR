@@ -322,9 +322,9 @@
           "settings": {
             "image": "shopify://shop_images/Titre_13.webp",
             "column_size": "4",
-            "title": "Column title",
+            "title": "Airflow Curler",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Créez des boucles douces et rebondissantes en quelques minutes.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -335,9 +335,9 @@
           "settings": {
             "image": "shopify://shop_images/Titre_10_d6ab8be4-c366-4587-b3ba-9753301bf663.webp",
             "column_size": "4",
-            "title": "Column title",
+            "title": "Sèche-Cheveux",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Séchage rapide tout en conservant la brillance naturelle des cheveux.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -348,9 +348,9 @@
           "settings": {
             "image": "shopify://shop_images/Titre_8_f9be7e56-47bf-44a3-a675-f5c2bbbfd0f4.webp",
             "column_size": "4",
-            "title": "Column title",
+            "title": "Brosse Volume",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Apporte du volume et de la densité dès les racines.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -363,7 +363,7 @@
             "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Lisse ou crée des ondulations pour des styles polyvalents.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
