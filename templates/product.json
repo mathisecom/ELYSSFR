@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_YEA93T": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -110,6 +116,7 @@
         }
       },
       "block_order": [
+        "liquid_YEA93T",
         "title",
         "badges",
         "price",
