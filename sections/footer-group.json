@@ -23,7 +23,7 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
+            "title": "LIVRAISON GRATUITE",
             "content": ""
           }
         },
@@ -36,20 +36,20 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
+            "title": "SERVICE CLIENT 24/7",
             "content": ""
           }
         },
         "discount": {
           "type": "item",
           "settings": {
-            "icon": "picto-coupon",
+            "icon": "picto-return",
             "mobile_icon_width": 36,
             "icon_width": 36,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Refer a friend",
+            "title": "GARANTIE REMBOURSEMENT 30 JOURS",
             "content": ""
           }
         },
@@ -62,7 +62,7 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure payment",
+            "title": "PAIEMENT SÉCURISÉ",
             "content": ""
           }
         }
