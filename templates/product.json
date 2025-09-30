@@ -43,6 +43,12 @@
             "liquid": "<div class=\"product__info-higlights-item\" style=\"display: flex; align-items: center; gap: 8px;\">\n  <div class=\"product__info-higlights-item-icon icon_text_new\" style=\"flex-shrink: 0;\">\n    <img src=\"//dripl.de/cdn/shop/files/curling-hair_1024x1024.svg?v=1712237677\" alt=\"icon\" style=\"width: 20px; height: auto;\">\n  </div>\n  <div class=\"flex-1\">\n    <p style=\"margin: 0;\">Outil de coiffage tout-en-un</p>\n  </div>\n</div>\n\n<div class=\"product__info-higlights-item\" style=\"display: flex; align-items: center; gap: 8px;\">\n  <div class=\"product__info-higlights-item-icon icon_text_new\" style=\"flex-shrink: 0;\">\n    <img src=\"//dripl.de/cdn/shop/files/Innovative_Lufttechnologie_1024x1024.svg?v=1712237704\" alt=\"icon\" style=\"width: 20px; height: auto;\">\n  </div>\n  <div class=\"flex-1\">\n    <p style=\"margin: 0;\">Technologie de flux d’air innovante</p>\n  </div>\n</div>\n\n<div class=\"product__info-higlights-item\" style=\"display: flex; align-items: center; gap: 8px;\">\n  <div class=\"product__info-higlights-item-icon icon_text_new\" style=\"flex-shrink: 0;\">\n    <img src=\"//dripl.de/cdn/shop/files/Locken_Wellen_Volumen_und_Glanz_1024x1024.svg?v=1712237756\" alt=\"icon\" style=\"width: 20px; height: auto;\">\n  </div>\n  <div class=\"flex-1\">\n    <p style=\"margin: 0;\">Boucles, ondulations, volume et brillance</p>\n  </div>\n</div>\n\n<div class=\"product__info-higlights-item\" style=\"display: flex; align-items: center; gap: 8px;\">\n  <div class=\"product__info-higlights-item-icon icon_text_new\" style=\"flex-shrink: 0;\">\n    <img src=\"//dripl.de/cdn/shop/files/Fur_alle_Haartypen_ohne_Hitzeschaden_1024x1024.svg?v=1712237779\" alt=\"icon\" style=\"width: 20px; height: auto;\">\n  </div>\n  <div class=\"flex-1\">\n    <p style=\"margin: 0;\">Adapté à tous les types de cheveux</p>\n  </div>\n</div>\n\n<div class=\"product__info-higlights-item\" style=\"display: flex; align-items: center; gap: 8px;\">\n  <div class=\"product__info-higlights-item-icon icon_text_new\" style=\"flex-shrink: 0;\">\n    <img src=\"//dripl.de/cdn/shop/files/Coldshot-Funktion_1024x1024.svg?v=1712237910\" alt=\"icon\" style=\"width: 20px; height: auto;\">\n  </div>\n  <div class=\"flex-1\">\n    <p style=\"margin: 0;\">Fonction jet d’air froid</p>\n  </div>\n</div>"
           }
         },
+        "liquid_4Gmjaq": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"kaching-icon-block--icon-container\" style=\"display: flex; flex-grow: 1; flex-shrink: 0; justify-content: center;\">\n  <div class=\"kaching-icon-block--icon\" style=\"display: flex; flex-direction: row; flex: 1 1 0%; align-items: center; text-align: center; padding: 10px; border: 1px solid #B4995B!important; background-color: #F3F0EB !important; border-radius: 5px;\">\n    <div style=\"display: flex; flex-shrink: 0; align-items: center; height: 24px; width: 24px; margin-bottom: 0px;\">\n      <svg height=\"24\" width=\"24\" viewBox=\"0 0 24 24\" fill=\"#B4995B\" xmlns=\"http://www.w3.org/2000/svg\">\n        <rect width=\"24\" height=\"24\" fill=\"none\"></rect>\n        <path d=\"M12 3C6.48 3 2 7.48 2 12s4.48 9 10 9 10-4.48 10-9S17.52 3 12 3zm1 14h-2v-2h2v2zm0-4h-2V7h2v6z\"></path>\n      </svg>\n    </div>\n    <div style=\"display: flex; flex-direction: column; text-align: left; margin-left: 10px;\">\n      <span class=\"kaching-icon-block--icon-title\" style=\"font-size: 15px; color: black !important; font-weight: bold; letter-spacing: -0.2px; line-height: 1.2;\">Disponible exclusivement sur ELYSS™</span>\n      <span class=\"kaching-icon-block--icon-subtitle\" style=\"font-size: 12.5px; color: black !important; font-style: normal; font-weight: normal; letter-spacing: -0.2px; line-height: 1.3;\">Attention aux contrefaçons. Tout autre vendeur n’est pas autorisé et nous ne pouvons garantir ni la qualité ni l’authenticité de leurs produits.</span>\n    </div>\n  </div>\n</div>"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "disabled": true,
@@ -74,7 +80,7 @@
         "liquid_wCqeb9": {
           "type": "liquid",
           "settings": {
-            "liquid": ""
+            "liquid": "<div style=\"display:flex; justify-content:center; align-items:center; gap:3rem;\">\n\n  <div style=\"display:flex; align-items:center; gap:0.6rem; font-size:9px; font-weight:500; letter-spacing:0.05em; color:#121212;\">\n    <img src=\"//norastyler.com/cdn/shop/files/svgexport-12.svg?v=1738593691\" \n         alt=\"check icon\" width=\"16\" height=\"16\" loading=\"lazy\">\n    <span>EXPÉDIÉ LE LENDEMAIN</span>\n  </div>\n\n  <div style=\"display:flex; align-items:center; gap:0.6rem; font-size:9px; font-weight:500; letter-spacing:0.05em; color:#121212;\">\n    <img src=\"//norastyler.com/cdn/shop/files/svgexport-12.svg?v=1738593691\" \n         alt=\"check icon\" width=\"16\" height=\"16\" loading=\"lazy\">\n    <span>GARANTIE 30 JOURS</span>\n  </div>\n\n</div>"
           }
         },
         "liquid_V7NFqB": {
@@ -120,6 +126,7 @@
         "liquid_4Tpiny",
         "price",
         "liquid_fmfzmM",
+        "liquid_4Gmjaq",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
