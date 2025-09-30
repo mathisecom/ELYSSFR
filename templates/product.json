@@ -510,6 +510,7 @@
         "image_XCGJwT": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Titre_15.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
