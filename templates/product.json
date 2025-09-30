@@ -103,7 +103,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Utilisation et Sécurité",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "content": "<ul><li>Température minimale : 25 °C<br/></li><li>Température maximale : 120 °C<br/></li><li>Technologie ION : OUI<br/></li><li>Types de cheveux adaptés : Tous types de cheveux<br/></li><li>Temps de chauffe : 5 secondes</li></ul>",
             "page": ""
           }
         }
