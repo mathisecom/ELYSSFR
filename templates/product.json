@@ -93,7 +93,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Garantie 30 jours",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "content": "<p><strong>Pas satisfait ?</strong> Ne vous inquiétez pas. Informez-nous dans les <strong>30 jours</strong> et nous vous rembourserons sans stress.<br/><br/>Si vous avez d’autres questions ou besoins, <strong>consultez notre FAQ</strong>. N’hésitez pas à nous contacter via le chat en direct ou le formulaire de contact.</p>",
             "page": ""
           }
         },
