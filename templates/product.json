@@ -15,7 +15,7 @@
         "liquid_YEA93T": {
           "type": "liquid",
           "settings": {
-            "liquid": ""
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <style>\n      .badges-container {\n        display: flex;\n        gap: 6px; /* Espacement entre les badges */\n        align-items: center;\n        margin-bottom: 20px; /* Ajoute un espace en dessous */\n      }\n\n      .badge {\n        display: inline-block;\n        padding: 4px 10px;\n        font-size: 12px;\n        font-weight: bold;\n        color: white;\n        background: #000000;\n        border-radius: 15px;\n        text-transform: uppercase;\n        white-space: nowrap;\n      }\n    </style>\n\n    <div class=\"badges-container\">\n      <div class=\"badge\">BEST SELLER</div>\n      <div class=\"badge\">AUTUMN OFFER: -50% OFF</div>\n    </div>\n  </div>\n</div>"
           }
         },
         "title": {
@@ -24,14 +24,23 @@
             "heading_tag": "h2"
           }
         },
-        "badges": {
-          "type": "badges",
-          "settings": {}
+        "liquid_4Tpiny": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\" style=\"padding-top: 0;\">\n  <div class=\"m-product-text\">\n    <div class=\"product-info__liquid\">\n      <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Stars\" width=\"63\" height=\"13\">\n        <span class=\"text-size\">Rated <b>4.8/5</b> based on 3,380 reviews</span>\n      </a>\n    </div>\n  </div>\n</div>"
+          }
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "show_taxes_notice": false
+          }
+        },
+        "liquid_fmfzmM": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product__info-higlights-item\" style=\"display: flex; align-items: center; gap: 8px;\">\n  <div class=\"product__info-higlights-item-icon icon_text_new\" style=\"flex-shrink: 0;\">\n    <img src=\"//dripl.de/cdn/shop/files/curling-hair_1024x1024.svg?v=1712237677\" alt=\"icon\" style=\"width: 20px; height: auto;\">\n  </div>\n  <div class=\"flex-1\">\n    <p style=\"margin: 0;\">Outil de coiffage tout-en-un</p>\n  </div>\n</div>\n\n<div class=\"product__info-higlights-item\" style=\"display: flex; align-items: center; gap: 8px;\">\n  <div class=\"product__info-higlights-item-icon icon_text_new\" style=\"flex-shrink: 0;\">\n    <img src=\"//dripl.de/cdn/shop/files/Innovative_Lufttechnologie_1024x1024.svg?v=1712237704\" alt=\"icon\" style=\"width: 20px; height: auto;\">\n  </div>\n  <div class=\"flex-1\">\n    <p style=\"margin: 0;\">Technologie de flux d’air innovante</p>\n  </div>\n</div>\n\n<div class=\"product__info-higlights-item\" style=\"display: flex; align-items: center; gap: 8px;\">\n  <div class=\"product__info-higlights-item-icon icon_text_new\" style=\"flex-shrink: 0;\">\n    <img src=\"//dripl.de/cdn/shop/files/Locken_Wellen_Volumen_und_Glanz_1024x1024.svg?v=1712237756\" alt=\"icon\" style=\"width: 20px; height: auto;\">\n  </div>\n  <div class=\"flex-1\">\n    <p style=\"margin: 0;\">Boucles, ondulations, volume et brillance</p>\n  </div>\n</div>\n\n<div class=\"product__info-higlights-item\" style=\"display: flex; align-items: center; gap: 8px;\">\n  <div class=\"product__info-higlights-item-icon icon_text_new\" style=\"flex-shrink: 0;\">\n    <img src=\"//dripl.de/cdn/shop/files/Fur_alle_Haartypen_ohne_Hitzeschaden_1024x1024.svg?v=1712237779\" alt=\"icon\" style=\"width: 20px; height: auto;\">\n  </div>\n  <div class=\"flex-1\">\n    <p style=\"margin: 0;\">Adapté à tous les types de cheveux</p>\n  </div>\n</div>\n\n<div class=\"product__info-higlights-item\" style=\"display: flex; align-items: center; gap: 8px;\">\n  <div class=\"product__info-higlights-item-icon icon_text_new\" style=\"flex-shrink: 0;\">\n    <img src=\"//dripl.de/cdn/shop/files/Coldshot-Funktion_1024x1024.svg?v=1712237910\" alt=\"icon\" style=\"width: 20px; height: auto;\">\n  </div>\n  <div class=\"flex-1\">\n    <p style=\"margin: 0;\">Fonction jet d’air froid</p>\n  </div>\n</div>"
           }
         },
         "rating": {
@@ -118,8 +127,9 @@
       "block_order": [
         "liquid_YEA93T",
         "title",
-        "badges",
+        "liquid_4Tpiny",
         "price",
+        "liquid_fmfzmM",
         "rating",
         "payment_terms",
         "description",
