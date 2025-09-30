@@ -455,6 +455,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Titre_10.png",
             "mobile_icon_width": 44,
             "icon_width": 44,
             "icon_background_type": "circle",
