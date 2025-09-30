@@ -1095,6 +1095,7 @@
         },
         "item_8JfhPV": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Comment entretenir l’appareil ?",
             "content": "<p>Convient à tous les types de cheveux, qu’ils soient fins, épais ou bouclés.</p>"
