@@ -250,6 +250,7 @@
         "item_KDfHad": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_10.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -293,7 +294,7 @@
       "name": "Image link blocks",
       "settings": {
         "full_width": false,
-        "block_size": "small",
+        "block_size": "medium",
         "subheading": "",
         "title": "",
         "content": "",
