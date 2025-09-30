@@ -109,8 +109,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "Service Client",
+            "content": "<p>Email : <a>hello@pelvina.com</a></p><p>Horaires : du lundi au vendredi de <strong>9h à 12h</strong> et de <strong>14h à 18h</strong><br/><br/>Samedi et dimanche de <strong>10h à 12h</strong></p>",
             "enable_follow_on_shop": false
           }
         }
