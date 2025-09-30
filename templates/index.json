@@ -740,12 +740,28 @@
             "title": "Ce produit convient-il à tous les types de cheveux ?",
             "content": "<p>Oui, il est conçu pour tous les types de cheveux, qu’ils soient fins, épais ou bouclés.</p>"
           }
+        },
+        "item_LAGE6L": {
+          "type": "item",
+          "settings": {
+            "title": "Comment entretenir l’appareil ?",
+            "content": "<p>Convient à tous les types de cheveux, qu’ils soient fins, épais ou bouclés.</p>"
+          }
+        },
+        "item_6epWzC": {
+          "type": "item",
+          "settings": {
+            "title": " Quel est le délai de livraison ? ",
+            "content": "<p>Le délai de livraison est de 3 à 5 jours.</p>"
+          }
         }
       },
       "block_order": [
         "item_JWQH4Y",
         "item_mzWkzX",
-        "item_xGTdA6"
+        "item_xGTdA6",
+        "item_LAGE6L",
+        "item_6epWzC"
       ],
       "name": "FAQ",
       "settings": {
