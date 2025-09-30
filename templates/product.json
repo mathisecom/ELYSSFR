@@ -82,8 +82,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Informations de livraison",
+            "content": "<p>Livraison express en France. Commandez aujourd’hui, expédié le lendemain. Livraison en 5 à 7 jours ouvrables avec suivi.</p>",
             "page": ""
           }
         },
@@ -92,7 +92,7 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
+            "title": "Garantie 30 jours",
             "content": "<p>Share some content to your customers about your products.</p>",
             "page": ""
           }
