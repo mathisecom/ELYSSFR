@@ -242,8 +242,9 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
+            "custom_icon": "shopify://shop_images/Titre_8.png",
+            "mobile_icon_width": 48,
+            "icon_width": 48,
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
@@ -255,8 +256,9 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
+            "custom_icon": "shopify://shop_images/Titre_7.png",
+            "mobile_icon_width": 48,
+            "icon_width": 48,
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
@@ -268,8 +270,23 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
+            "custom_icon": "shopify://shop_images/Titre_9.png",
+            "mobile_icon_width": 48,
+            "icon_width": 48,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.</p>"
+          }
+        },
+        "item_ttTbcz": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Titre_10.png",
+            "mobile_icon_width": 48,
+            "icon_width": 48,
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
@@ -281,7 +298,8 @@
       "block_order": [
         "item_m3FeHV",
         "item_7cf9Pi",
-        "item_kMK8Qg"
+        "item_kMK8Qg",
+        "item_ttTbcz"
       ],
       "name": "Text with icons",
       "settings": {
