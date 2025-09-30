@@ -510,7 +510,8 @@
         "item_pdkdjX": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "image": "shopify://shop_images/Photo_1a_1.webp",
+            "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -522,7 +523,8 @@
         "item_QDfaig": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "image": "shopify://shop_images/Photo_3a_1.webp",
+            "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -534,7 +536,21 @@
         "item_hwGFWB": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "image": "shopify://shop_images/Photo_4a_1.webp",
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AyM7nw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Photo_2a_1.webp",
+            "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -547,7 +563,8 @@
       "block_order": [
         "item_pdkdjX",
         "item_QDfaig",
-        "item_hwGFWB"
+        "item_hwGFWB",
+        "item_AyM7nw"
       ],
       "name": "Multi-column",
       "settings": {
