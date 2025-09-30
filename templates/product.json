@@ -376,6 +376,22 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "scrolling_text_zLizaz": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#000000",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
+      }
     }
   },
   "order": [
@@ -383,6 +399,7 @@
     "press_UWX67X",
     "image_link_blocks_mBiNLq",
     "media_with_text_UjJVym",
-    "multi_column_CVL8Ny"
+    "multi_column_CVL8Ny",
+    "scrolling_text_zLizaz"
   ]
 }
