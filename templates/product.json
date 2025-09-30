@@ -529,9 +529,9 @@
           "settings": {
             "image": "shopify://shop_images/Photo_1a_1.webp",
             "column_size": "4",
-            "title": "Column title",
+            "title": "PRÉ-SÉCHAGE OPTIMAL",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Préparez vos cheveux parfaitement pour le coiffage grâce à un flux d’air large et précis.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -542,9 +542,9 @@
           "settings": {
             "image": "shopify://shop_images/Photo_3a_1.webp",
             "column_size": "4",
-            "title": "Column title",
+            "title": "FONCTION BOUCLES",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Créez facilement de magnifiques boucles à gauche ou à droite avec les deux embouts fournis. Conçus spécialement pour des boucles et ondulations volumineuses <strong>sans chaleur excessive</strong>.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -555,9 +555,9 @@
           "settings": {
             "image": "shopify://shop_images/Photo_4a_1.webp",
             "column_size": "4",
-            "title": "Column title",
+            "title": "BROSSE LISSANTE",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Remplace le traditionnel fer à lisser grâce à un embout ionique. Rend vos cheveux <strong>lisses et soyeux</strong>, même pour les cheveux bouclés ou frisés.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -568,9 +568,9 @@
           "settings": {
             "image": "shopify://shop_images/Photo_2a_1.webp",
             "column_size": "4",
-            "title": "Column title",
+            "title": "BROSSE RONDE VOLUMISANTE",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Apporte <strong>volume et mouvement</strong>. Idéale pour tous les types de cheveux, sauf pour les cheveux afro-texturés.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
