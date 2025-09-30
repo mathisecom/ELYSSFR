@@ -172,12 +172,23 @@
             "show_rating": true,
             "rating": 4
           }
+        },
+        "quote_wCmdy4": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Laura T.",
+            "content": "J’adore la légèreté et la polyvalence de cet outil de coiffage !",
+            "show_rating": true,
+            "rating": 4
+          }
         }
       },
       "block_order": [
         "quote_NaJdeL",
         "quote_PqVXJr",
-        "quote_V84zjm"
+        "quote_V84zjm",
+        "quote_wCmdy4"
       ],
       "name": "Press",
       "settings": {
