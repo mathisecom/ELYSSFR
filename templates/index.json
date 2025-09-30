@@ -723,22 +723,22 @@
         "item_JWQH4Y": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Quels accessoires sont inclus avec le 5-en-1 Multi Styler ?",
+            "content": "<p>Le 5-en-1 Multi Styler est livré avec plusieurs accessoires interchangeables : fer à boucler, brosse lissante, peigne chauffant, etc.</p>"
           }
         },
         "item_mzWkzX": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Quelle est la durée de la garantie ?",
+            "content": "<p>Nous offrons une garantie de 2 ans.</p>"
           }
         },
         "item_xGTdA6": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Ce produit convient-il à tous les types de cheveux ?",
+            "content": "<p>Oui, il est conçu pour tous les types de cheveux, qu’ils soient fins, épais ou bouclés.</p>"
           }
         }
       },
