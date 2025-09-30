@@ -263,6 +263,31 @@
         "item_fMWi3A": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_11.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_YeGWGH": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_UjeRVN": {
+          "type": "item",
+          "settings": {
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -289,6 +314,8 @@
         "item_DpJdVD",
         "item_KDfHad",
         "item_fMWi3A",
+        "item_YeGWGH",
+        "item_UjeRVN",
         "item_nwfRyk"
       ],
       "name": "Image link blocks",
