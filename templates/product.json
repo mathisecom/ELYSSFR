@@ -247,6 +247,19 @@
             "overlay_opacity": 0
           }
         },
+        "item_faYcah": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_15.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
         "item_KDfHad": {
           "type": "item",
           "settings": {
@@ -315,6 +328,7 @@
       },
       "block_order": [
         "item_DpJdVD",
+        "item_faYcah",
         "item_KDfHad",
         "item_fMWi3A",
         "item_YeGWGH",
