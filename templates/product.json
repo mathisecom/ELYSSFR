@@ -510,6 +510,7 @@
         "image_T6B7Hq": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Ontwerp-zonder-titel-18.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
