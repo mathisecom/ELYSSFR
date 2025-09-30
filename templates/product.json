@@ -349,7 +349,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Titre_13.webp",
-            "column_size": "3",
+            "column_size": "4",
             "title": "Fer à Boucler Airflow",
             "heading_tag": "h4",
             "content": "<p>Créez des boucles souples et rebondissantes en quelques minutes.</p>",
@@ -362,7 +362,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Titre_10_d6ab8be4-c366-4587-b3ba-9753301bf663.webp",
-            "column_size": "3",
+            "column_size": "4",
             "title": "Sèche-Cheveux",
             "heading_tag": "h4",
             "content": "<p>Séchage rapide tout en conservant la brillance naturelle des cheveux.</p>",
@@ -375,7 +375,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Titre_8_f9be7e56-47bf-44a3-a675-f5c2bbbfd0f4.webp",
-            "column_size": "3",
+            "column_size": "4",
             "title": "Brosse Volumisante",
             "heading_tag": "h4",
             "content": "<p>Apporte du volume et de la densité dès les racines.</p>",
@@ -388,7 +388,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Titre_9.webp",
-            "column_size": "3",
+            "column_size": "4",
             "title": "Mise en Forme",
             "heading_tag": "h4",
             "content": "<p>Lisse ou ondule pour des styles polyvalents.</p>",
