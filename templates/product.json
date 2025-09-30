@@ -43,6 +43,12 @@
             "liquid": "<div class=\"product__info-higlights-item\" style=\"display: flex; align-items: center; gap: 8px;\">\n  <div class=\"product__info-higlights-item-icon icon_text_new\" style=\"flex-shrink: 0;\">\n    <img src=\"//dripl.de/cdn/shop/files/curling-hair_1024x1024.svg?v=1712237677\" alt=\"icon\" style=\"width: 20px; height: auto;\">\n  </div>\n  <div class=\"flex-1\">\n    <p style=\"margin: 0;\">Outil de coiffage tout-en-un</p>\n  </div>\n</div>\n\n<div class=\"product__info-higlights-item\" style=\"display: flex; align-items: center; gap: 8px;\">\n  <div class=\"product__info-higlights-item-icon icon_text_new\" style=\"flex-shrink: 0;\">\n    <img src=\"//dripl.de/cdn/shop/files/Innovative_Lufttechnologie_1024x1024.svg?v=1712237704\" alt=\"icon\" style=\"width: 20px; height: auto;\">\n  </div>\n  <div class=\"flex-1\">\n    <p style=\"margin: 0;\">Technologie de flux d’air innovante</p>\n  </div>\n</div>\n\n<div class=\"product__info-higlights-item\" style=\"display: flex; align-items: center; gap: 8px;\">\n  <div class=\"product__info-higlights-item-icon icon_text_new\" style=\"flex-shrink: 0;\">\n    <img src=\"//dripl.de/cdn/shop/files/Locken_Wellen_Volumen_und_Glanz_1024x1024.svg?v=1712237756\" alt=\"icon\" style=\"width: 20px; height: auto;\">\n  </div>\n  <div class=\"flex-1\">\n    <p style=\"margin: 0;\">Boucles, ondulations, volume et brillance</p>\n  </div>\n</div>\n\n<div class=\"product__info-higlights-item\" style=\"display: flex; align-items: center; gap: 8px;\">\n  <div class=\"product__info-higlights-item-icon icon_text_new\" style=\"flex-shrink: 0;\">\n    <img src=\"//dripl.de/cdn/shop/files/Fur_alle_Haartypen_ohne_Hitzeschaden_1024x1024.svg?v=1712237779\" alt=\"icon\" style=\"width: 20px; height: auto;\">\n  </div>\n  <div class=\"flex-1\">\n    <p style=\"margin: 0;\">Adapté à tous les types de cheveux</p>\n  </div>\n</div>\n\n<div class=\"product__info-higlights-item\" style=\"display: flex; align-items: center; gap: 8px;\">\n  <div class=\"product__info-higlights-item-icon icon_text_new\" style=\"flex-shrink: 0;\">\n    <img src=\"//dripl.de/cdn/shop/files/Coldshot-Funktion_1024x1024.svg?v=1712237910\" alt=\"icon\" style=\"width: 20px; height: auto;\">\n  </div>\n  <div class=\"flex-1\">\n    <p style=\"margin: 0;\">Fonction jet d’air froid</p>\n  </div>\n</div>"
           }
         },
+        "liquid_qhfFCm": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div data-rapi-id=\"rapi_640023c0474590\"></div>"
+          }
+        },
         "liquid_qJQgCe": {
           "type": "liquid",
           "settings": {
@@ -132,6 +138,7 @@
         "liquid_4Tpiny",
         "price",
         "liquid_fmfzmM",
+        "liquid_qhfFCm",
         "liquid_qJQgCe",
         "liquid_4Gmjaq",
         "variant_picker",
