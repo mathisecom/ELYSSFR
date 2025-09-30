@@ -324,6 +324,19 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
+        },
+        "item_CPwdhC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_16.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
@@ -333,7 +346,8 @@
         "item_fMWi3A",
         "item_YeGWGH",
         "item_UjeRVN",
-        "item_nwfRyk"
+        "item_nwfRyk",
+        "item_CPwdhC"
       ],
       "name": "Image link blocks",
       "settings": {
@@ -854,12 +868,13 @@
         "text_color": ""
       }
     },
-    "image_link_blocks_EFWbmx": {
+    "image_link_blocks_zK7mAV": {
       "type": "image-link-blocks",
       "blocks": {
-        "item_G4txPA": {
+        "item_dkDbTz": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_8.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -869,9 +884,10 @@
             "overlay_opacity": 0
           }
         },
-        "item_qiEJLb": {
+        "item_cGymNq": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_15.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -881,9 +897,10 @@
             "overlay_opacity": 0
           }
         },
-        "item_ApqHKq": {
+        "item_Npge3L": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_10.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -893,9 +910,62 @@
             "overlay_opacity": 0
           }
         },
-        "item_6DWKiV": {
+        "item_VqNMmg": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_11.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_8CMBcQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_13.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_VKyqc6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_14.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_knxThY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_12.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_9TDKqT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_16.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -907,10 +977,14 @@
         }
       },
       "block_order": [
-        "item_G4txPA",
-        "item_qiEJLb",
-        "item_ApqHKq",
-        "item_6DWKiV"
+        "item_dkDbTz",
+        "item_cGymNq",
+        "item_Npge3L",
+        "item_VqNMmg",
+        "item_8CMBcQ",
+        "item_VKyqc6",
+        "item_knxThY",
+        "item_9TDKqT"
       ],
       "name": "Image link blocks",
       "settings": {
@@ -1080,7 +1154,7 @@
     "media_with_text_pQHQx3",
     "multi_column_Fam3dB",
     "rich_text_zmxhpQ",
-    "image_link_blocks_EFWbmx",
+    "image_link_blocks_zK7mAV",
     "testimonials_VfVrMe",
     "faq_b7HWz3"
   ]
